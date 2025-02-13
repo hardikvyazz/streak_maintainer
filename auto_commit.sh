@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/ajit/inbox_playground/streak_maintainer  # Replace with the actual path to your repo
+cd /home/ubuntu/Playground/streak_maintainer  # Replace with the actual path to your repo
 
 RANDOM_COMMITS=$((RANDOM % 3 + 2))  # Generates a number between 2 and 4
 
